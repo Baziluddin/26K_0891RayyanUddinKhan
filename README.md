@@ -23,3 +23,12 @@ Programming Fundamentals laboratory tasks and programs developed in C.
 
 ### Database Projects
 Projects involving SQL, MariaDB, and database management.
+
+## Hobbies & Extracurriculars
+
+1. Programming
+2. Learning New Technologies
+
+   - [x] Learn C programming
+   - [x] Learn Git & GitHub
+   - [ ] Improve backend development skills
